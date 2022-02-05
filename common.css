@@ -23,3 +23,5 @@
   color: RoyalBlue;
   margin-right: 35px;
 }
+
+html { scroll-behavior: smooth;}
