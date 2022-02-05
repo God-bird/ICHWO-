@@ -38,4 +38,5 @@ html { scroll-behavior: smooth;
   font-family: sans-serif;}
 
 .top {font-size: 2em;
-  text-weight: bold;}
+  text-weight: bold;
+  margin-top: 150px;}
