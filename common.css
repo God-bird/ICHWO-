@@ -39,9 +39,9 @@ position: absolute;
 
 body { font-family: sans-serif;}
 
-div.top {font-size: 500%!important;
-  text-weight: bold!important;
-  margin-top: 100px!important;
+div.top {font-size: 500%;
+  text-weight: bold;
+  margin-top: 100px;
 }
 
 html {scroll-behavior: smooth;}
