@@ -7,6 +7,9 @@
   background-color: Aliceblue;
   padding-top: 5px;
   box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 .ul{
   display: flex;
@@ -17,6 +20,6 @@
 .a{
   display: block;
   text-decoration: none;
-  color: white;
+  color: Royalblue;
   margin-right: 35px;
 }
