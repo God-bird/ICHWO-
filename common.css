@@ -32,10 +32,12 @@ header{width: 100%;
   text-decoration: none;
   color: RoyalBlue;
   margin-right: 35px;
-  font-family: sans-serif;}
+  font-family: sans-serif;
+  scroll-behavior: smooth;}
 
-html { scroll-behavior: smooth;
-  font-family: sans-serif;}
+.a:hover {font-color: orange}
+
+body { font-family: sans-serif;}
 
 .top {font-size: 2em;
   text-weight: bold;
