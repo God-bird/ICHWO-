@@ -39,7 +39,7 @@ position: absolute;
 
 body { font-family: sans-serif;}
 
-.top {font-size: xx-small;
+.top {font-size: 500%;
   text-weight: bold;
   margin-top: 100px;
 }
