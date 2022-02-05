@@ -33,7 +33,7 @@ header{width: 100%;
   color: RoyalBlue;
   margin-right: 35px;
   font-family: sans-serif;
-  scroll-behavior: smooth;}
+ }
 
 .a:hover {font-color: orange}
 
@@ -42,3 +42,5 @@ body { font-family: sans-serif;}
 .top {font-size: xx-large;
   text-weight: bold;
   margin-top: 150px;}
+
+html {scroll-behavior: smooth;}
